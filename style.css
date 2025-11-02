@@ -1,0 +1,31 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: black;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+
+#stats-section {
+    background-color: rgb(33, 37, 41);
+}
+
+.works-h2 {
+    color: #fff;
+    font-weight: 700;
+    padding-bottom: .5rem;
+    border-bottom: 1px solid white; 
+    margin-bottom: 2rem;
+}
+
+.card-cover {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
